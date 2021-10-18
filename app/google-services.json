@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484568697870",
+    "project_id": "artwart-5a3d9",
+    "storage_bucket": "artwart-5a3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484568697870:android:07fef04f9fa04e6e40405f",
+        "android_client_info": {
+          "package_name": "com.panjacreation.artwat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484568697870-919roi6vr9s0c2hifcn4tr10639s1akj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfrXiFfz0S8OR3nPDv72HOXsXAlvIrxBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484568697870-919roi6vr9s0c2hifcn4tr10639s1akj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
